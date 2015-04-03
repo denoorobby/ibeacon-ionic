@@ -16,4 +16,6 @@
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
+
+  <gap:plugin name="com.conetix.ibeacon" version="1.0.0" />
 </widget>
